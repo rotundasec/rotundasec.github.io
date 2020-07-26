@@ -79,7 +79,7 @@
 /* mobile or only mobile */
 @media (max-width: 767px) {
   .section-padding {
-    padding: 50px 0;
+    padding: 300px 0;
   }
   .section-title {
     font-size: 22px;
