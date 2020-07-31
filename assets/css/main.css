@@ -1254,7 +1254,8 @@ textarea {
 
 /* Footer Area Start */
 .footer-area {
-  background: #34363a;
+  /* background: #34363a; */
+   background: #000000;
 }
 
 .footer-area .footer-titel {
